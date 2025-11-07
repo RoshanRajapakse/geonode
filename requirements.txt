@@ -2,7 +2,7 @@
 Pillow==9.4.0
 lxml==4.9.2
 psycopg2==2.9.5
-Django==3.2.16
+Django==4.2.26
 
 # Other
 amqp==5.1.1
@@ -117,7 +117,7 @@ boto3==1.26.60
 # Django Caches
 python-memcached<=1.59
 whitenoise==6.3.0
-Brotli==1.0.9
+Brotli==1.2.0
 
 # Contribs
 xmltodict<0.13.1
